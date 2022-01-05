@@ -1,5 +1,5 @@
 from docopt import docopt
-from api import *
+from setup import *
 from tabulate import tabulate
 from colorama import Fore, Style, Back
 

@@ -42,5 +42,5 @@ def remove(category):
     con.close()
 
 # init()
-# add(100, 'coffee', 'ba bache ha coffee zadim eshg kardim')
+# add(100, 'coffee', 'message')
 # print(show('coffee'))
