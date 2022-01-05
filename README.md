@@ -10,14 +10,6 @@ You can calculate your daily expenses
 
 ## Usage:
 
-#### spent_app.p --init
-
-#### spent_app.p --show [<category>]
-
-#### spent_app.p --add <amount> <category> [<message>]
-
-#### spent_app.p --remove <category>
-
 #### spent_app.py -h | --help
 
 ## Options:
